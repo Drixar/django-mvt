@@ -55,7 +55,7 @@ ROOT_URLCONF = 'familia.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/drixa/OneDrive/Coder/Python/desafio/familia/datos_familiares/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
